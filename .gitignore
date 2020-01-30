@@ -1,4 +1,3 @@
-.vscode/
-fls/
-*.pyc
 __pycache__/
+fls/
+.vscode/
